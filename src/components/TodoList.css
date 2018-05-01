@@ -1,0 +1,40 @@
+div, .mainTitle {
+    padding-top: 10px;
+}
+
+div, .todoListMain {
+    background-color: #e6e5e5;
+    width: 40vw;
+    margin: auto;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+input {
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+button {
+    display: block;
+    width: 75%;
+    margin: auto;
+    margin-bottom: 15px;
+    background-color: green;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: white;
+    color: green;
+}
